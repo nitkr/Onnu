@@ -1,0 +1,9 @@
+[Plugin]
+Loader=python3
+Module=onnu
+IAge=3
+Name=Onnu
+Description=A gedit plugin which functions as a php editor.
+Authors=Nithin K R <nithinkr09@gmail.com>
+Copyright=Copyright © 2015 Nithin K R <nithinkr09@gmail.com>
+Website=http://www.gedit.org
